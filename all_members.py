@@ -1,11 +1,11 @@
 import discord
 from discord.ext import commands
 
-TOKEN = "NTA4Mjk0NDAxODE1MjE2MTI4.Dr9L6Q.pdqoyzUwlvbbCx22NRUYHr3kQw4"
+TOKEN = "[INSERT BOT TOKEN HERE]"
 
 client = commands.Bot(command_prefix='.')
 
-admin_list = ["91114093598998528", "123563744314916865", "157151405960855553"]
+admin_list = ["[ADMIN_USER_ID]", "[ADMIN_USER_ID]", "[ADMIN_USER_ID]"]
 
 
 @client.event
