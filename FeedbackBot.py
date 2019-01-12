@@ -4,7 +4,7 @@ TOKEN = "[INSERT BOT TOKEN HERE]"
 
 client = commands.Bot(command_prefix='.')
 
-admin_list = ["91114093598998528", "123563744314916865", "157151405960855553"]
+admin_list = [""[ADMIN_USER_ID]", "[ADMIN_USER_ID]", "[ADMIN_USER_ID]"]
 
 
 @client.event
